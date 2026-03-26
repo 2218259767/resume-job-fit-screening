@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职岗位筛选"
+  short_description: "Shortlist best-fit jobs from a careers URL using a local account or resume"
+  default_prompt: "Use $resume-job-fit-screening to fetch jobs from a careers search URL, reuse my local account or current resume, and rank the best roles."
